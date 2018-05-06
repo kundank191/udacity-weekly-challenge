@@ -1,22 +1,4 @@
-# WeeklyChallengeOne
+# Screenshots
 
-
-This project contains bugs and errors. You have to solely fix them up and find the best possible way to make the application run.
-
-After you have successfully fixed it, you have to materialize it :smiley:. Use your creativity and showcase it in #showcase channel.
-
-When you have fixed the errors just send a Pull Request to this GitHub repo.
-
-
-## Where are the errors :
-
-Errors are in `MainActivity.java` and `row_layout.xml`
-
-After removing the bugs the application will look like this :
-
-
-<img src = "https://i.imgur.com/DfIu4Aq.png" width=350>
-
-## List of Top 10 performers of this week 
-
-Updated at the end of this week's task
+<img src = "https://user-images.githubusercontent.com/26672993/39673245-754fee88-5156-11e8-9abc-0bacae9fcb89.png" width=350>
+<img src = "https://user-images.githubusercontent.com/26672993/39673247-768267ae-5156-11e8-86b8-9dbae9161423.png" width=350>
